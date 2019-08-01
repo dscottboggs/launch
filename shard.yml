@@ -1,0 +1,13 @@
+name: launch
+version: 0.1.0
+
+authors:
+  - Scott Boggs <scott@tams.tech>
+
+targets:
+  launch:
+    main: src/bin.cr
+
+crystal: 0.29.0
+
+license: MIT
